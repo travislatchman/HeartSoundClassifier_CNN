@@ -21,6 +21,14 @@ Lastly, there was experimentation with phonocardiogram segmentation. We were pla
 ![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/40a9b9e7-03d6-4461-9987-ea612aefcd0e)
 ![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/9ad0031b-4c8b-4fe9-8028-05ba6fa1bb51)
 
+![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/4cc059b4-74ea-4431-aaa4-543080b8ac95)
+![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/579ca878-0037-4aba-87ba-11c5aede9db2)
+![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/b0eb1efb-449f-411e-a226-2eb1497829fd)
+![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/39986737-8bb7-4c01-a1ba-8df614b9df9e)
+![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/074d2fe0-61b5-4c65-8fa1-63cdbc668c58)
+![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/0ff171ac-cb79-4762-b81d-827adf6eb5ff)
+![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/101ffcdf-c0ef-4667-a49a-58b8d81389c9)
+![image](https://github.com/travislatchman/HeartSoundClassifier_CNN/assets/32372013/cff68941-b817-4df5-a48a-f3bdc3df5619)
 
 
 
